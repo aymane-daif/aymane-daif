@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
+![NestJs](https://img.shields.io/badge/-Nest.js-141321?style=flat&logo=nestjs&logoColor=DD0031)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-141321?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![React](https://img.shields.io/badge/-React-141321?style=flat&logo=react)&nbsp;
@@ -28,6 +29,9 @@
 ![Git](https://img.shields.io/badge/-Git-141321?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-141321?style=flat&logo=Linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-141321?style=flat&logo=Docker)&nbsp;
+
 
 ###  🤝🏻 How to reach me
 [![GitHub aymane-daif](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=GitHub&logColor=black&link=(https://github.com/aymane-daif))](https://github.com/aymane-daif)
+[![LinkedIn aymane-daif-998b90184](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logColor=2465B0&link=(https://www.linkedin.com/in/aymane-daif-998b90184/))](https://www.linkedin.com/in/aymane-daif-998b90184/)
