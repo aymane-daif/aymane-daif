@@ -35,3 +35,5 @@
 ###  🤝🏻 How to reach me
 [![GitHub aymane-daif](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=GitHub&logColor=black&link=(https://github.com/aymane-daif))](https://github.com/aymane-daif)
 [![LinkedIn aymane-daif-998b90184](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logColor=2465B0&link=(https://www.linkedin.com/in/aymane-daif-998b90184/))](https://www.linkedin.com/in/aymane-daif-998b90184/)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aymane-daif?cardType=level-alternate&theme=vue-dark)](https://git.io/awesome-stats-card)
